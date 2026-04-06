@@ -72,7 +72,7 @@ Clean HTML/CSS site demonstrating UI layout and design fundamentals.
 
 ---
 
-## `> cat skills.txt`
+## `skills`
 
 ```
 Languages:    Python · Java · JavaScript · TypeScript · C · HTML · CSS
@@ -85,7 +85,7 @@ IT Support:   Hardware · POS Systems · Systems Administration
 
 ---
 
-## `> cat experience.txt`
+## `experience`
 
 **IT Support & Systems Administrator** — *D-Hairs* `2021–Present`
 Tier 1 support, network troubleshooting, POS system configuration & maintenance
