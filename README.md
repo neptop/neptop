@@ -27,7 +27,7 @@ Computer Science student graduating **May 2026** from Washington State Universit
 
 ## `> ls ~/projects`
 
-### 🧙 [wizard-arena](https://github.com/neptop/wizard-arena)
+### 🧙 [wizard_arena](https://github.com/neptop/wizard_arena)
 > Networked multiplayer game built with **libGDX**
 
 Real-time client-server architecture with multiple players. Hands-on with networked game state synchronization, connection management, and low-latency message passing.
