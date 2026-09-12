@@ -10,7 +10,7 @@
 ```
 
 ### CS @ Washington State University · Vancouver, WA
-#### Full-Stack Dev · Systems · Networking · Game Dev
+#### Full-Stack · Automation · Networking · Game Dev
 
 [![Email](https://img.shields.io/badge/Email-davidhoang777%40gmail.com-black?style=flat-square&logo=gmail)](mailto:davidhoang777@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-neptop-black?style=flat-square&logo=github)](https://github.com/neptop)
@@ -21,7 +21,7 @@
 
 ## `> whoami`
 
-Computer Science student graduating **May 2026** from Washington State University. I build things that run — from full-stack web apps and networked multiplayer games to IT systems for real businesses. I'm fluent in **English** and **Vietnamese**, and I care about writing code that actually works for the people using it.
+Computer Science student graduated **May 2026** from Washington State University. I build things from full-stack web apps and networked multiplayer games to automated systems for real businesses. I'm fluent in **English** and **Vietnamese**, and I care about writing code that actually works for the people using it.
 
 ---
 
@@ -75,7 +75,7 @@ Clean HTML/CSS site demonstrating UI layout and design fundamentals.
 ## `skills`
 
 ```
-Languages:    Python · Java · JavaScript · TypeScript · C · HTML · CSS
+Languages:    Python · Java · JavaScript · TypeScript · C · PowerShell · HTML · CSS
 Frontend:     React · Tailwind CSS · Next.js
 Backend:      Node.js · Express · REST APIs · MongoDB · SQL
 Tools:        Git · Linux · Windows · macOS
@@ -94,7 +94,6 @@ Tier 1 support, network troubleshooting, POS system configuration & maintenance
 Operations management, staff training on tech systems, vendor coordination
 
 **Computer Programmer (Automation Engineer)** - **Fibre Federal Credit Union** `July 2026 - Present`
-
 Design and build business systems automation across SQL, Adaxes, Nintex, Symitar, and PowerON within an M365/SharePoint environment, translating operational requirements into working integrations.
 Built a PowerShell integration synchronizing Exchange mailbox delegate permissions between Mimecast and Adaxes, replacing a manual, error-prone process with an automated pipeline.
 Leading a structured, PR-style code review process for Nintex workflows to improve reliability and auditability of production automations.
