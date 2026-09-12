@@ -93,10 +93,10 @@ Tier 1 support, network troubleshooting, POS system configuration & maintenance
 **General Manager** — *Ding Tea* `2022 – July 2026`
 Operations management, staff training on tech systems, vendor coordination
 
-**Computer Programmer (Automation Engineer)** - **Fibre Federal Credit Union** `July 2026 - Present`
-Design and build business systems automation across SQL, Adaxes, Nintex, Symitar, and PowerON within an M365/SharePoint environment, translating operational requirements into working integrations.
-Built a PowerShell integration synchronizing Exchange mailbox delegate permissions between Mimecast and Adaxes, replacing a manual, error-prone process with an automated pipeline.
-Leading a structured, PR-style code review process for Nintex workflows to improve reliability and auditability of production automations.
+**Computer Programmer (Automation Engineer)** - *Fibre Federal Credit Union* `July 2026 - Present`
+- Designed and build business systems automation across Adaxes, Nintex, Symitar, using SQL, PowerShell, and PowerOn within an M365/Sharepoint environment, translating operational requirements into working integration.
+- Build a PowerShell integration synchronizing Exchange shared mailbox delegating permissions between MimeCast and Adaxes, replacing a manual process with an automated pipeline.
+- Designed a structured, PR-style code review process for Nintex workflows to improve reliability and auditability of production automations
 ---
 
 <div align="center">
